@@ -1,6 +1,6 @@
 package mYPackage2;
 
-public class HelloWorld2 {
+public class Nayeem_Script03 {
 	
 	public static void main(String[] args){ 
 		
@@ -16,6 +16,9 @@ public class HelloWorld2 {
 		System.out.print(" ");		   // Space insert
 		System.out.println(greet);	   // Greet insert
 		
-		System.out.println("Hello Mr."+" "+person+","+" "+greet);	// 2nd Method	+ means addition
+		System.out.println("Hello Mr."+" "+person+","+" "+greet);	// 2nd Method	(+) = addition
+		
+		System.out.println("Hello Mr. Kazi Rahman, Good evening");	// 3rd method
+		
 	}
 }
